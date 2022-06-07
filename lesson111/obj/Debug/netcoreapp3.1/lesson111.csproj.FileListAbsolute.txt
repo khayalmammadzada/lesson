@@ -1,0 +1,14 @@
+C:\Users\khayalkm\source\repos\lesson111\lesson111\bin\Debug\netcoreapp3.1\lesson111.exe
+C:\Users\khayalkm\source\repos\lesson111\lesson111\bin\Debug\netcoreapp3.1\lesson111.deps.json
+C:\Users\khayalkm\source\repos\lesson111\lesson111\bin\Debug\netcoreapp3.1\lesson111.runtimeconfig.json
+C:\Users\khayalkm\source\repos\lesson111\lesson111\bin\Debug\netcoreapp3.1\lesson111.runtimeconfig.dev.json
+C:\Users\khayalkm\source\repos\lesson111\lesson111\bin\Debug\netcoreapp3.1\lesson111.dll
+C:\Users\khayalkm\source\repos\lesson111\lesson111\bin\Debug\netcoreapp3.1\lesson111.pdb
+C:\Users\khayalkm\source\repos\lesson111\lesson111\obj\Debug\netcoreapp3.1\lesson111.csproj.AssemblyReference.cache
+C:\Users\khayalkm\source\repos\lesson111\lesson111\obj\Debug\netcoreapp3.1\lesson111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khayalkm\source\repos\lesson111\lesson111\obj\Debug\netcoreapp3.1\lesson111.AssemblyInfoInputs.cache
+C:\Users\khayalkm\source\repos\lesson111\lesson111\obj\Debug\netcoreapp3.1\lesson111.AssemblyInfo.cs
+C:\Users\khayalkm\source\repos\lesson111\lesson111\obj\Debug\netcoreapp3.1\lesson111.csproj.CoreCompileInputs.cache
+C:\Users\khayalkm\source\repos\lesson111\lesson111\obj\Debug\netcoreapp3.1\lesson111.dll
+C:\Users\khayalkm\source\repos\lesson111\lesson111\obj\Debug\netcoreapp3.1\lesson111.pdb
+C:\Users\khayalkm\source\repos\lesson111\lesson111\obj\Debug\netcoreapp3.1\lesson111.genruntimeconfig.cache
